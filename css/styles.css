@@ -1,5 +1,12 @@
 /* GLOBAL STYLES
 ======================== */
+#thomas-kunkel-cover {
+  background-image: url("https://imgur.com/Tm9awUb");
+}
+
+#thomas-kunkel-card {
+  background-image: url("https://imgur.com/aBcsrVs");
+}
 
 *, *:before, *:after {
   box-sizing: border-box;
