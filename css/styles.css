@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#karen-v-card {
+ background-image: url("https://uploads-learn.s3.amazonaws.com/uploads/identities/learn_account/avatar/9f1ddfb5-21ce-48dc-b947-33fc3cc7b56c/avatar.jpeg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
